@@ -1,28 +1,3 @@
-# Project-05
-### CS 180-L03
-
-Rohin Gupta, Shubham Jain, Pratham Patel, Keshav Shylesh, Thomas Temperley
-
-For this Project, our group decided to go with Option 3. We created a Marketplace system where users can buy/sell items.
-
-## How to compile:
-
-First run the MarketServer.java file to start up the server. Then you will be able to run MarketClient.java. 
-Marketclient.java can be run in multiple instances to have multiple users at the same time.
-
-The following code snippet will allow one to compile and run our Project.
-```java
-javac *.java
-java MarketServer.java
-java MarketClient.java
-```
-
-## Submission details:
-
-1. The Project Report was submitted by Shubham Jain on Brightspace.
-2. The Project code was submitted by Keshav Shylesh on Vocareum.
-3. The Project Presentation was submitted by Rohin Jain 
-
 ## Class descriptions:
 
 * **MarketClient.java**: This class is where the client side operations occur. It uses a GUI to handle interactions from the user.
